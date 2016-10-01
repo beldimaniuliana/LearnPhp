@@ -8,6 +8,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="Y:\Programs\Xampp\htdocs\LearnPHP" />
+    <option name="cloneParentDir" value="Y:\Programs\Xampp\htdocs\" />
   </component>
 </application>
