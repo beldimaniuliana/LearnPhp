@@ -13,4 +13,4 @@ a view can also be a page fragment like a header or footer.
 It can also be an RSS page, or any other type of “page”.
 
 The Controller serves as an intermediary between the Model,
-the View, and any other resources needed to process the HTTP request and generate a web page.dfsdfsdf
+the View, and any other resources needed to process the HTTP request and generate a web page.dfsdfsdfdrrerter
