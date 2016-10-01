@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="CodeIgniter" type="PLAIN_TEXT" />
       <mapping pattern="Information" type="PLAIN_TEXT" />
+      <mapping pattern="CodeIgniter" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
